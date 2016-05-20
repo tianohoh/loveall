@@ -1,0 +1,2 @@
+# loveall
+love everyone
